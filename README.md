@@ -8,5 +8,8 @@ tipologia di server che fornisce l'infrastruttura e le funzionalità orientati a
 ### Application Web
 applicazione fruibile via web tramite network o all'interno di un sistema informatico,  in una architettura client-server. Il client accede tramite browser a determinate funzionalità che risiedono su un application server.
 
+### Web Service
+utilizza il protocollo HTTP per trasmettere dati in xlm tra i nodi della rete
+
 ### WebSocket
 WebSocket è una tecnologia web che fornisce canali di comunicazione bidirezionale (full-duplex) attraverso una singola connessione TCP (protocollo di trasmissione pacchetti).
