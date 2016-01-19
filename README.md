@@ -1,4 +1,4 @@
-# GetConnected-Glossary
+# Glossary
 personal glossary to learn
 
 # WebSocket
