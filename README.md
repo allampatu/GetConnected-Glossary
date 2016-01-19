@@ -1,5 +1,4 @@
-# Glossary
-personal glossary to learn
+# Terminologia utile
 
 ### Application Web
 applicazione fruibile via web tramite network o all'interno di un sistema informatico,  in una architettura client-server. Il client accede tramite browser a determinate funzionalità che risiedono su un application server.
